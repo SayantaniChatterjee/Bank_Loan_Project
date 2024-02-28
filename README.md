@@ -1,1 +1,1 @@
-# Bank_Loan_Project
+The bank loan dataset analysed using SQL and Power BI, revealing insights on loan applications, funding, interest rates, terms, regional and monthly trends, borrower profiles. These insights inform strategic decisions for efficient resource allocation, profitable lending, and enhanced customer satisfaction.
